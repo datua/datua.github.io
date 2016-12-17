@@ -1,1 +1,3 @@
+name: 大头的blog
+markdown: kramdown
 baseurl: ./
